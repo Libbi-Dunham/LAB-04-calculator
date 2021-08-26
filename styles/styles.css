@@ -36,7 +36,7 @@ footer {
 
 main {
     display: grid;
-    grid-template-columns: 100px auto 100px 20px 2fr;
+    grid-template-columns: 100px auto 100px 45px 2fr;
     grid-auto-rows: min-content;
     grid-gap: 10px;
 
