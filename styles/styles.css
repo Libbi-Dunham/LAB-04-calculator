@@ -30,6 +30,18 @@ h1 {
 }
 
 footer {
-    background-color: #FAF0EA;
+    background-color: #faeaf6;
     padding: 10px;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 100px auto 100px 20px 2fr;
+    grid-auto-rows: min-content;
+    grid-gap: 10px;
+
+}
+
+section {
+    display: contents;
 }
